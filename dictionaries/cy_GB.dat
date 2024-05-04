@@ -7,7 +7,7 @@ aber|2
 aberth|1
 (enw)|offrwm|rhodd
 aberthu|1
-(erf)|offryma|ymwadu|cyflwyno|cynnig|rhoi gorau i
+(berf)|offryma|ymwadu|cyflwyno|cynnig|rhoi gorau i
 abl|4
 (ansoddair)|galluog|medrus
 (ansoddair)|cryf|cadarn|nerthol
@@ -25,12 +25,12 @@ abwyd|2
 (enw)|abwydyn|mwydyn|prif genwair|llyngyren y ddaear
 (enw)|llith
 academi|1
-(enw)|athrofa|coleg|ysgol|prifysgool
+(enw)|athrofa|coleg|ysgol|prifysgol
 acen|2
 (enw)|goslef|tôn
 (enw)|pwyslais|aceniad
 acennu|1
-(berf)|pwysleisio|rhoi’r flaenoriaeth i|pwyso ar||||
+(berf)|pwysleisio|rhoi’r flaenoriaeth i|pwyso ar
 acer|1
 (enw)|cyfer|erw|cyfair
 act|3
@@ -55,14 +55,14 @@ achlesu|2
 achlod|1
 (enw)|cywilydd|gwarth|gwaradwydd|amarch|sarhad|sen clod|anrhydedd
 achlust|1
-(enw)|si|ston  Su|suon|Son|chwedl|acen
+(enw)|si|sïon|su|suon|sôn|chwedl|acen
 achlysur|4
 (enw)|digwyddiad
 (enw)|amser|adeg
 (enw)|achos|rheswm
 (enw)|mantais|cyfle
 achlysurol|1
-(ansoddair)|ysbeidiol|o dro |1dro|o bryd i bryd|o bryd t’w gilydd|yn awr ac yn y man|yn awr ac eilwaith|ar adegau|ar brydiau|ar droeon|ambell waith|ambell dro
+(ansoddair)|ysbeidiol|o dro |1dro|o bryd i bryd|o bryd i'w gilydd|yn awr ac yn y man|yn awr ac eilwaith|ar adegau|ar brydiau|ar droeon|ambell waith|ambell dro
 achos|2
 (enw)|rheswm|achlysur|cyflwr
 (cysylltair)|o achos|oherwydd|oblegid|am|gan
@@ -72,9 +72,9 @@ achub|1
 (berf)|arbed|gwaredu|cadw
 achwyn|2
 (enw)|achwyniad|cwyn|cyhuddiad
-(berf)|cwyno|cyhuddo|erwenach|belo|ceintach|conan
+(berf)|cwyno|cyhuddo|grwgnach|beio|ceintach|conan
 ad-dalu|1
-(berf)|adfer|edfryd|dychwelyd|digolledu|rhoi’n ol
+(berf)|adfer|edfryd|dychwelyd|digolledu|rhoi’n ôl
 adain|2
 (enw)|aden|asgell
 (enw)|adran
@@ -82,7 +82,1325 @@ adeg|2
 (enw)|tro|ysbaid|amser|tymor
 (enw)|achlysur|cyfle
 adeiladaeth|2
-(enw)|adeiladwaith|saermniaeth|pensaerniaeth
+(enw)|adeiladwaith|saernïaeth|pensaernïaeth
 (enw)|cynnydd
 adeiladol|1
 (ansoddair)|llesol|addysgiadol|hyfforddiadol|positif|cadarnhaol
+adeiladu|1
+(berf)|codi|cyfodi|saernïo|llunio
+adennill|1
+(berf)|ailennill|cael yn nol|colli
+aderyn|2
+(enw)|edn|ehediad
+(enw)|cymeriad
+adfail|1
+(enw)|murddun|gweddillion
+adfeilio|1
+(berf)|dirywio|malurio|cwympo|syrthio|darfod
+adfer|1
+(berf)|edfryd|ad-dalu|rhoi’n ôl|digolledu|dychwelyd
+adfyd|1
+(enw)|gofid|helbul|trueni|trallod|caledi|cyni|cyfyngder
+adfydus|1
+(ansoddair)|truenus|helbulus|trallodus|gofidus|caled
+adfyfyriol|1
+(ansoddair)|synfyfyriol|meddylgar
+adfywiad|1
+(enw)|adnewyddiad|dadebriad|adferiad
+adfywio|1
+(enw)|adfer|adnewyddu|dadebru
+adfywiol|1
+(ansoddair)|bywiocaol|amheuthun|bywhaol
+adlais|1
+(enw)|eco|atsain
+adlamu|1
+(berf)|sboncio|neidio|bowndio
+adleisio|1
+(berf)|atseinio|datseinio|ateb|ailadrodd|adlewyrchu
+adlewyrchol|1
+(ansoddair)|adfyfyriol|synfyfyriol|meddylgar
+adlewyrchu|1
+(berf)|taflu’n ôl|adfyfyrio
+adloniant|1
+(enw)|difyrrwch|difyrion|diddanwch|hwyl
+adnabyddiaeth|1
+(enw)|cynefindra|gwybodaeth
+adnabyddus|1
+(ansoddair)|cynefin|gwybyddus|hysbys
+adnewyddu|1
+(berf)|ailffurfio|ail-lunio|atgyweirio|trwsio|ailadeiladu|gwneud o’r newydd
+adnoddau|1
+(enw)|cyflenwad|defnyddiau wrth gefn
+adolygu|1
+(berf)|bwrw golwg dros|beirniadu|archwilio
+adran|2
+(enw)|rhan|dosbarth|israniad
+(enw)|cangen|cyfadran
+adref|1
+(adferf)|tua thref|tuag adref|gyfeiriad cartref
+adrodd|1
+(berf)|dweud|traethu|mynegi,cofnodi|rhoi cyfrif|crybwyll|datgan
+adroddiad|1
+(enw)|hanes|cofnodiad|datganiad|mynegiad|dywediad|crybwylliad
+adwaith|1
+(enw)|ymateb|ymwaith
+adweithio|1
+(berf)|ymateb|ymweithio
+adwy|1
+(enw)|bwlch|hollt
+adwyth|1
+(enw)|drwg|anffawd|aflwydd|anlwc ffawd
+adwythig|1
+(ansoddair)|drwg|anffodus|anlwcus|aflwyddiannus|niweidiol
+adyn|1
+(enw)|dihiryn|gwalch|cnaf|cenau|dyn gwastraff|dyn diffaith gŵr
+addas|1
+(ansoddair)|cymwys|priodol|cyfaddas|iawn|yn taro anaddas
+addaster|1
+(enw)|addasrwydd|cymhwyster|priodoldeb|gwedduster
+addasu|1
+(berf)|cymhwyso|cyfaddasu|paratoi|ffitio
+addawol|1
+(ansoddair)|gobeithiol|gobeithion|ffafriol
+addef|1
+(berf)|cyfaddef|cyffesu|cydnabod|arddel
+addewid|1
+(enw)|ymrwymiad|adduned
+addfwyn|1
+(ansoddair)|mwyn|tirion|tyner|llariaidd|boneddigaidd
+addfwynder|1
+(enw)|mwynder|tiriondeb|tynerwch|llarieidd-dra|boneddigeiddrwydd
+addo|1
+(berf)|addunedu|ymrwymo|eidduno|diofrydu
+addoldy|1
+(enw)|capel|eglwys|tŷ cwrdd|betws|teml|synagog|mosg
+addolgar|1
+(ansoddair)|duwiol|duwiolfrydig|defosiynol|crefyddol
+addoli|1
+(berf)|anrhydeddu|clodfor1|canmol|moli|parchu|ymgrymu
+adduned|1
+(enw)|addewid|ymrwymiad|llw
+addunedu|1
+(berf)|addo|ymrwymo|tyngu llw
+addurn|1
+(enw)|harddwch|tegwch|trwsiad
+addurno|1
+(berf)|harddu|tecau|trwsio|urddasu|cywreinio
+addysg|1
+(enw)|dysg|dysgeidiaeth|gwybodaeth|hyfforddiant
+cyfarwyddyd
+addysgiadol|1
+(ansoddair)|addysgol|hyfforddiadol
+addysgu|1
+(berf)|dysgu|hyffordd1|cyfarwyddo
+aeddfed|2
+(ansoddair)|parod|ffrwythlon
+(ansoddair)|yn ei lawn dwf
+aeddfedrwydd|1
+(enw)|llawn dwf|llawn oed|parod
+aeddfedu|1
+(berf)|tyfu|datblygu|prifio
+ael|1
+(enw)|ystlys eglwys|eil|ale|coridor
+aelwyd|4
+(enw)|lle tan
+(enw)|annedd|cartref|tŷ|preswylfod
+(enw)|teulu|tylwyth
+(enw)|cangen
+aeth|2
+(enw)|poen|tristwch
+(enw)|ofn|dychryn|ias
+aethus|1
+(ansoddair)|poenus|ofnadwy|arswydus|gofidus|trallodus|echrydus
+fagddu|1
+(enw)|tywyllwch|uffern|annwn|is-fyd nef
+afiach|1
+(ansoddair)|claf|anhwylus|sal|gwael|aflan|budr|ffiaidd
+afiaith|1
+(enw)|hwyl|llawenydd|sbri|miri|hapusrwydd|gorfoledd|dedwyddwch
+afiechyd|1
+(enw)|salwch|clefyd|gwaeledd|tostedd|tostrwydd|aflendid
+afieithus|1
+(ansoddair)|llawn miri|hapus|llon|llawen|dedwydd
+aflafar|1
+(ansoddair)|cras|garw|cas
+aflan|1
+(ansoddair)|brwnt|budr|amhur|afiach|ffiaidd|llygredig
+aflednais|1
+(ansoddair)|cwrs|anweddus|anfonheddig
+aflendid|1
+(enw)|bryntni|budredd|baw|tom|amhurdeb glendid|glanweithdra
+aflêr|1
+(ansoddair)|blêr|anghymen|anniben|di-drefn|di-sut|didoreth|di-lun|destlus|twt
+aflerwch|1
+(enw)|blerwch|annibendod|llanastr|anhrefn|cybolfa
+aflonydd|1
+(ansoddair)|anesmwyth|diorffwys|afreolus|pryderus|cyffrous|ofnus|terfysglyd
+aflonyddu|2
+(berf)|cyffroi|blino
+(berf)anesmwytho|pryderu|dechrau gofidio|ymderfysgu
+aflonyddwch|1
+(enw)|anesmwythyd|blinder|pryder|anghysur
+afloyw|1
+(ansoddair)|anghlir|pwl|anghroyw
+afluniaidd|1
+(ansoddair)|di-lun|anferth|anghelfydd|diolwg|trwsgl|carbwl|di-siâp
+aflwydd|1
+(enw)|anlwc|anffawd|trychineb|anap|anghaffael|aflwyddiant
+aflwyddiannus|1
+(ansoddair)|anffodus|anlwcus|anffortunus|di-lwydd
+afon|1
+(enw)|nant|ffrwd|llif|aber|ffrydlif|afonig
+afradlon|1
+(ansoddair)|gwastraffus|ofer|treulgar
+afradlonedd|1
+(enw)|oferedd|gwastraff darbodaeth|cynildeb
+afradloni|1
+(berf)|gwastraffu|ofera|afradu|difetha
+afraid|1
+(ansoddair)|afreidiol|diangen|dieisiau|dianghenraid
+afreal|1
+(ansoddair)|annirweddol|anwirioneddol|anwir
+afreolaeth|1
+(enw)|diffyg disgyblaeth|anhrefn|aflywodraeth|cyffro|dryswch|terfysg|afreoleidd-dra
+afreolaidd|1
+(ansoddair)|anhrefnus|di-drefn|anarferol|eithriadol
+afreolus|1
+(ansoddair)|aflywodraethus|annosbarthus|gwyllt|direol
+afreswm|1
+(enw)|dieithrwch|yr absẃrd
+afresymol|1
+(ansoddair)|direswm|gwrthun|croes i reswm
+afresymoldeb|1
+(enw)|afresymoliaeth|gwrthuni|diffyg rheswm
+afrifed|1
+(ansoddair)|dirifedi|aneirif|di-rif|difesur
+afrosgo|1
+(ansoddair)|trwsgl|lletchwith|trwstan|llibin|anfedrus|carbwl
+afrwydd|1
+(ansoddair)|anodd|caled|trwsgl|afrosgo|trwstan|lletchwith|carbwl
+afrwyddineb|1
+(enw)|anhawster|caledi|dryswch|cyfyngder|problem|rhwystr
+afrywiog|1
+(ansoddair)|gwrthnysig|llym|afreolaidd|anarferol|eithriadol
+agen|1
+(enw)|hollt|bwlch|adwy
+agendor|1
+(enw)|bwlch|hollt|dyfnder|affwys
+ager|1
+(enw)|anwedd|stêm|tawch
+ageru|1
+(berf)|anweddu|ymageru|troi n darth
+agor|1
+(berf)|agoryd|datgloi|torri cau
+agored|1
+(ansoddair)|anghaeëdig|ar agor|cyhoeddus|di-rwystr
+agoriad|3
+(enw)|allwedd
+(enw)|bwlch|adwy
+(enw)|agorfa|cyfle|siawns
+agoriadol|1
+(ansoddair)|dechreuol|cychwynnol|cynhenid
+agos|2
+(ansoddair)|gerllaw|ger|cyfagos|cymdogol|ar gyfyl pell
+(ansoddair)|annwyl|cu
+agosáu|1
+(berf)|dynesu|nesáu|dod a|mynd at|closio
+agosatrwydd|1
+(enw)|hynawsedd|cyfeillgarwch|cynefindra
+agwedd|1
+(enw)|osgo|ymarweddiad|ymagwedd|arwedd|safbwynt|persbectif|proffeil
+angall|1
+(ansoddair)|annoeth|ffôl|ynfyd|gwirion|gwyllt
+angau|1
+(enw)|tranc|marwolaeth|ymadawiad
+angel|1
+(enw)|cennad|negesydd|cerub|seraff|plentyn annwyl
+angen|1
+(enw)|eisiau|rhaid|diffyg
+angenrheidiol|1
+(ansoddair)|anhepgor|rheidiol|o bwys|hanfodol|hollbwysig
+angerdd|3
+(enw)|grym
+(enw)|ffyrnigrwydd|cyffro
+(enw)|nwyd|gwyn|traserch|teimlad
+angerddol|1
+(ansoddair)|ffyrnig|nwydus|tanbaid|eiddgar|selog|brwdfrydig|brwd
+anghaffael|1
+(enw)|aflwydd|diffyg|anhawster|anffawd|anlwc
+angharedig|1
+(ansoddair)|digroeso|anghynnes|anghymwynasgar|anghu|anhoffus|anserchog|angharuaidd
+anghelfydd|1
+(ansoddair)|anfedrus|analluog|trwsgl|lletchwith|afrosgo|trwstan|llibin
+anghenfil|1
+(enw)|cawr|creadur anferth
+anghenus|1
+(ansoddair)|tlawd|llwm|rheidus
+angheuol|1
+(ansoddair)|marwol|peryglus
+anghlir|1
+(ansoddair)|anghroyw|amhenodol|amhendant|aneglur|anamlwg
+anghlod|1
+(enw)|amarch|gwarth|gwaradwydd|anfri|cywilydd|sarhad|sen
+anghoeth|1
+(ansoddair)|amhur|anniwylliedig,annysgedig|di ddiwylliant
+anghofio|1
+(berf)|gollwng neu bwrw dros gof|esgeuluso|anwybyddu|gadael yn angof
+anghofrwydd|1
+(enw)|angof|ebargofiant
+anghofus|1
+(ansoddair)|esgeulus|diofal|ebargofus trylwyr|trwyadl
+anghonfensiynol|1
+(ansoddair)|anarferol|ecsentrig|od|rhyfedd|anghydffurfiol|annefodol
+anghredadun|1
+(enw)|anghrediniwr|anghredwr|pagan|anffyddiwr
+anghredadwy|2
+(ansoddair)|anhygoel|annhebygol credadwy|tebygol
+(ansoddair)|di-gred
+anghrediniaeth|1
+(enw)|anffyddiaeth|anghrefydd|annuwiaeth
+anghrediniol|1
+(ansoddair)|di-goel|paganaidd
+anghroyw|1
+(ansoddair)|anghlir|aneglur
+anghwrtais|1
+(ansoddair)|cwrs|anfoesgar|anfoneddigaidd|anfonheddig|di-foes|aflednais
+anghydfod|1
+(enw)|anghytundeb|cweryl|cynnen|ffrae|anghydweliad|ymrafael|ymryson
+anghydffurfiol|1
+(ansoddair)|anghonfensiynol|ymneilltuol confensiynol
+anghydweld|1
+(berf)|anghydsynio|anghytuno
+anghyfaddas|1
+(ansoddair)|anaddas|anghyfleus|amhriodol|anweddus|anghymwys
+anghyfannedd|3
+(ansoddair)|diffaith|anial
+(ansoddair)|unig
+(ansoddair)|di drigolion|di-bobl
+anghyfartal|1
+(ansoddair)|anghymesur|anwastad cyfartal
+anghyfarwydd|1
+(ansoddair)|anghynefin|anadnabyddus|anhysbys|dieithr
+anghyfeillgar|1
+(ansoddair)|digroeso|anghymwynasgar|anghynnes|diserch|sarrug|blwng|angharuaidd
+anghyfiaith|1
+(ansoddair)|dieithr|estron
+anghyfiawn|1
+(ansoddair)|annheg|anuniawn|cam|anghyfreithlon
+anghyfiawnder|1
+(enw)|cam|camwedd|annhegwch|anuniondeb|camwri|cyfeiliornad|trawsedd
+anghyflawn|1
+(ansoddair)|anorffenedig|amherffaith
+anghyfleus|1
+(ansoddair)|anhwylus|anaddas|anghyfaddas
+anghyfleuster|1
+(enw)|anhwylustod|anghyfaddaster
+anghyfreithlon|1
+(ansoddair)|anghyfiawn|yn erbyn y  gyfraith|anuniawn
+anghyfrifol|1
+(ansoddair)|anatebol|annibynadwy|anystyriol
+anghyfforddus|1
+(ansoddair)|anghysurus|anesmwyth
+anghyffredin|1
+(ansoddair)|anarferol|eithriadol|hynod|nodedig|rhyfedd
+anghymdeithasgar|1
+(ansoddair)|anghymdogol|anghyfeillgar|digroeso|anghymwynasgar
+anghymedrol|1
+(ansoddair)|afresymol|eithafol|byrbwyll|amhwyllog|angall
+anghymen|1
+(ansoddair)|anniben|aflêr|blêr|di-drefn|anhrefnus|blith draphlith|di-lun
+anghymeradwy|1
+(ansoddair)|annerbyniol|gwrthodedig
+anghymeradwyo|1
+(berf)|gwrthod|gomedd|gwgu|cuchio
+anghymhwyso|1
+(berf)|diarddel|diawdurdodi|atal|gwahardd
+anghymhwyster|1
+(enw)|anaddaster|anghyfaddaster
+anghymwys|1
+(ansoddair)|amhriodol|anweddus|anaddas|anghyfaddas
+anghynefin|1
+(ansoddair )|anghyfarwydd|anadnabyddus
+anghynhyrchiol|1
+(ansoddair)|gwrthgynhyrchiol|negyddol|amhroffidiol|anfuddiol|di-gynnyrch
+anghynnes|1
+(ansoddair)|oer|rhewllyd|fferllyd|oerllyd|di-wres|anghyfeillgar
+anghysbell|1
+(ansoddair)|diarffordd|pell|pellennig|anhygyrch
+anghyson|1
+(ansoddair )|anwadal|di-ddal|anghytun|gwamal|chwit-chwat
+anghysondeb|1
+(enw)|afreoleidd-dra|anwadalwch|gwamalrwydd
+anghysur|2
+(enw)|anghywir
+(ansoddair)|gwallus|cyfeiliornus|beius|diffygiol|heb fod yn iawn|o chwith|ar gam
+anghysurus|1
+(ansoddair)|anghyfforddus|anesmwyth
+anghytbwys|1
+(ansoddair)|anghyfartal|anwastad
+anghytgord|2
+(enw)|anghyseinedd
+(enw)|anghytundeb|anghydfod
+anghytun|1
+(ansoddair)|anghyson|anwastad
+anghytundeb|1
+(enw)|anghydweliad|ffrae|ffrwgwd|ymrafael|cweryl|ymraniad|cynnen
+anghytuno|1
+(berf)|anghydweld|anghydsynio|ffraeo|ymrafael|ymryson|ymgiprys|cweryla
+anghywir|1
+(ansoddair)|gwallus|cyfeiliornus|beius|diffygiol|heb fod yn iawn|o chwith|ar gam
+anghywirdeb|2
+(enw)|twyll|brad
+(enw)|gwall|camgymeriad|amryfusedd|cyfeiliornad
+angladd|1
+(enw)|cynhebrwng|claddedigaeth|arwyl
+angof|1
+(enw)|ebargofiant|anghofrwydd
+angorfa|1
+(enw)|hafan|porthladd|harbwr
+angylaidd|1
+(ansoddair)|perffaith|annwyl
+ailadrodd|1
+(berf)|ail-ddweud|ailfynegi|ail-draethu
+ailasesu|1
+(berf)|ailfeddwl|ailystyried
+ailbrisio|1
+(berf)|ailasesu|ail-werthuso|ail-bwyso
+ailddechrau|1
+(berf)|ailgychwyn|ailgodi
+ailddigwydd|1
+(berf)|ailgodi|ailddamweinio|ailddarfod|ailgyfodi
+ailgymryd|1
+(berf)|aildderbyn|adfeddu|ailfeddiannu|adfeddiannu
+ailosod|1
+(berf)|ailddodi|ail-leoli|adsefydlu
+alaeth|1
+(enw)|tristwch|gofid|galar|gwae|ing|blinder|trallod
+alaethus|1
+(ansoddair)|trist|blin|galarus|gofidus|trallodus|ingol
+alaru|1
+(berf)|syrffedu|blino ar|casau|ffieiddio
+alaw|2
+(enw)|melodi|can|tiwn|ton|cainc|cathl
+(enw)|lili
+allan|1
+(adferf)|tu allan|i maes|tu maes
+allanfa|1
+(enw)|allfa|ffordd allan|dihangfa
+alltud|1
+(enw)|alltudiaeth|deholiad|un a alltudiwyd
+alltudio|1
+(berf)|deol|diarddel|bwrw allan|gyrru i ffwrdd
+allwedd|1
+(enw)|agoriad|ateb|datrysiad
+allweddol|1
+(ansoddair)|hollbwysig|tyngedfennol
+am|2
+(arddodiad)|oherwydd|oblegid|o achos
+(arddodiad)|o amgylch|o gwmpas|o boptu|oddeutu|ynghylch|ynglŷn a
+amaeth|1
+(enw)|amaethyddiaeth|hwsmonaeth|ffermwriaeth
+amaethdy|1
+(enw)|fferm|ffermdy|tŷ fferm|tyddyn
+amaethu|1
+(berf)|ffermio|trin y tir|hwsmona|aredig
+amaethwr|1
+(enw)|ffermwr|hwsmon|arddwr
+amaethyddol|1
+(ansoddair)|gwledig|gwladaidd
+amarch|1
+(enw)|sen|gwarth|gwaradwydd|gwarthrudd|anfri|sarhad
+amatur|1
+(enw)|dechreuwr|un dibrofiad|anghyfarwydd
+amaturaidd|1
+(ansoddair)|dibrofiad|amhrofiadol|anghelfydd|amhroffesiynol profiadol|celfydd
+amau|1
+(berf)|drwgdybio|anghytuno|petruso
+ambell|1
+(ansoddair)|ychydig|achlysurol|rhai
+amcan|1
+(enw)|arfaeth|nod|bwriad|pwrpas|diben|cynllun|perwyl
+amcangyfrif|2
+(enw)|cyfrif bras|cyfrif agos
+(berf)|asesu’n fras
+amcanu|1
+(berf)|arfaethu|bwriadu|cynllunio|anelu|pwrpasu|golygu|arofun
+amddifad|2
+(ansoddair)|diymgeledd|anghenus|di-gefn
+(ansoddair)|heb rieni|unig
+amddifadu|1
+(berf)|difreinio|difuddio|difeddiannu|dwyn oddi ar
+amddiffyn|1
+(berf)|diogelu|cadw|noddi|achlesu|gwarchod|achub|gwaredu
+amddiffynfa|1
+(enw)|amddiffyniad|caer|castell|lle cadarn|noddfa|cysgod|lloches
+amddiffynnydd|1
+(enw)|diogelwr|noddwr ymosodwr|erlynydd
+amgáu|1
+(berf)|cynnwys|amgylchynu|cwmpasu
+amgen|1
+(ansoddair)|amgenach|arall|gwell|gwahanol|amryw
+amgueddfa|1
+(enw)|creirfa|cywreinfa|archifdy
+amgyffred|1
+(berf)|deall|dirnad|gwybod|cydnabod
+amgyffrediad|1
+(enw)|dirnadaeth|dealltwriaeth|syniad
+amgylchedd|2
+(enw)|cylch|cwmpas|cylchfesur
+(enw)|amgylchfyd
+amgylchiad|1
+(enw)|cyflwr|amod|achlysur|digwyddiad|adeg
+amgylchynu|1
+(berf)|amgylchu|cwmpasu|cylchynu
+amharchu|1
+(berf)|cam-drin|dianrhydeddu|gwarthruddo|gwaradwyddo|sarhau|difrïo|diystyru
+amharchus|1
+(ansoddair)|dianrhydedd|gwaradwyddus|gwarthus parchus
+amharod|1
+(ansoddair)|anfodlon|anewyllysgar|anfoddog|o anfodd|yn wysg ei drwyn
+amharodrwydd|2
+(enw)|anfodlonrwydd|anewyllysgarwch parodrwydd amharu
+(berf)|niweidio|andwyo|sbwylio|difrodi|difetha|drygu
+amhendant|1
+(ansoddair)|amhenodol|ansicr|penagored|amwys
+amhendantrwydd|1
+(enw)|ansicrwydd|petruster|amwyster
+amherffaith|1
+(ansoddair)|anghyflawn|anorffenedig|gwallus|diffygiol|beius|anghywir
+amherffeithrwydd|1
+(enw)|bai|diffyg|nam|gwendid|anghyflawnder
+amhersain|1
+(ansoddair)|anghyseiniol|croch|aflafar
+amheuaeth|2
+(enw)|petruster|dadl|ansicrwydd|amheuon
+(enw)|drwgdybiaeth
+amheus|3
+(ansoddair)|ansicr
+(ansoddair)|amhendant|amhenodol|amwys
+(ansoddair)|petrus|drwgdybus sicr|siwr
+amheuthun|2
+(enw)|danteithfwyd|enllyn|moethyn
+(ansoddair)|hyfryd|dymunol|dewisol|blasus|danteithiol|prin|anghyffredin
+amhleidiol|1
+(ansoddair)|diduedd|di-ochr|amhartïol
+amhleserus|1
+(ansoddair)|annymunol|cas|atgas
+amhriodol|1
+(ansoddair)|anaddas|anghyfaddas|anghyfleus
+amhrisiadwy|1
+(ansoddair)|gwerthfawr|anhybris|uwchlaw gwerth
+amhrofiadol|1
+(ansoddair)|dibrofiad|amaturaidd|anghyfarwydd
+amhroffidiol|1
+(ansoddair)|anfuddiol,anghynhyrchiol|gwrthgynhyrchiol|negyddol|di-fudd|di-les|di-elw
+amhur|1
+(ansoddair)|budr|brwnt|aflan|llygredig
+amhuredd|1
+(enw)|amhurdeb|budreddi|llygredd|bryntni|aflendid|llygredigaeth
+amhwyllo|1
+(berf)|gwallgofi|ynfydu|mwydro|colli pwyll|mynd o'i gof
+aml|1
+(ansoddair)|niferus|lluosog|llawer|mynych
+amlder|1
+(enw)|amldra|mynychder|helaethrwydd|digonedd|cyflawnder|lluosogrwydd
+amlhau|1
+(berf)|cynyddu|chwyddo|lluosogi|ychwanegu|helaethu|ehangu
+amryliw|1
+(ansoddair)|brith|brych|cymysgliw
+amryw|1
+(ansoddair)|gwahanol|llawer|niferus|amryfal|amryfath
+amrywiaeth|1
+(enw)|gwahaniaeth|amrywiad|amrediad|dewis
+amrywio|1
+(berf)|gwahaniaethu|annhebygu|newid
+amrywiol|1
+(ansoddair)|gwahanol|amryfath|amryfal
+amser|1
+(enw)|adeg|tro|pryd|cyfnod|oes
+amseriad|1
+(enw)|curiad|tempo
+amserol|1
+(ansoddair)|tymhorol|tymhoraidd|prydlon|mewn pryd|yn llygad yr amser annhymig
+amseru|1
+(berf)|dyddio|mesur
+amwys|1
+(ansoddair)|aneglur|anghlir|amhendant|amhenodol|ansicr|ansiwr|amheus
+amwysedd|1
+(enw)|ansicrwydd|amhendantrwydd
+amynedd|1
+(enw)|dyfalbarhad|pwyll|dioddefgarwch|goddefgarwch
+amyneddgar|1
+(ansoddair)|goddef gar|dioddefgar|pwyllog|hirymarhous|mwyn
+anadl|1
+(enw)|chwyth|gwynt
+anadnabyddus|1
+(ansoddair)|anghyfarwydd|anghynefin|anhysbys
+anaddas|1
+(ansoddair)|anghyfaddas|amhriodol|anweddus|anghyfleus
+anaeddfed|1
+(ansoddair)|ifanc|plentynnaidd|amharod
+anaele|1
+(ansoddair)|ofnadwy|arswydus|dychrynllyd|gresynus|echrydus|echryslon|marwol
+anaf|1
+(enw)|bai|mefl|gwall|archoll|briw|nam|diffyg
+anafu|1
+(berf)|niweidio|archolli|anurddo|brifo|clwyfo|difwyno|gwanu
+anafus|1
+(ansoddair)|dolurus|clwyfus|poeni di-boen|di-ddolur
+anair|1
+(enw)|drygair|gwarth|enllib athrod
+anallu|1
+(enw)|gwendid|anfedrusrwydd|anabledd|methiant gallu
+analluog|1
+(ansoddair)|anabl|anfedrus|methiannus galluog
+anaml|1
+(ansoddair)|anfynych|prin anghyffredin|anarferol|eithriadol
+anamlder|1
+(enw)|prinder|anfynychder
+anamserol|1
+(ansoddair)|annhymig|hwyr|cynnar
+anap|1
+(enw)|damwain|anffawd|anlwc|aflwydd|niwed|colled lwe|ffawd
+anarferol|1
+(ansoddair)|anghyffredin|eithriadol
+anatebol|1
+(ansoddair)|anghyfrifol|anystyriol|annibynadwy
+andwyo|1
+(berf)|sbwylio|niweidio|difetha|drygu|distrywio|dinistrio
+andwyol|1
+(ansoddair)|niweidiol|colledus|o anfantais|anfanteisiol|anffafriol
+aneglur|1
+(ansoddair)|amwys|anghlir|amhendant|amhenodol|tywyll
+aneirif|1
+(ansoddair)|di-rif|afrifed|dirifedi|difesur|anfeidrol
+anelu|1
+(berf)|amcanu|bwriadu|arfaethu|cynnig|cyfeirio|ymgyrchu at|pwyntio
+anemosiynol|1
+(ansoddair)|pwyllog|sad|didaro|difater|hunanfeddiannol
+anenwog|1
+(ansoddair)|anadnabyddus|distadl|di-nod enwog
+anerchiad|1
+(enw)|sgwrs|ymgom|cyfarchiad
+anesboniadol|1
+(ansoddair)|di-esboniad|di-sylfaen|di-sail
+anesgusodol|1
+(ansoddair)|di-gyfiawnhad|di-esgus|anfaddeuol
+anesmwyth|1
+(ansoddair)|aflonydd|diorffwys|blin|anghysurus|pryderus|trafferthus|trallodus
+anesmwythder|1
+(enw)|anesmwythyd|aflonyddwch|anghysur|pryder|blinder|trallod
+anesmwytho|1
+(berf)|aflonyddu|pryderu|poeni|dechrau gofidio ymdawelu
+anewyllysgar|1
+(ansoddair)|amharod|anfoddog|anfodlon
+anfad|1
+(ansoddair)|drwg|ysgeler|erchyll|drygionus|echrys|echrydus|echryslon
+anfadwaith|1
+(enw)|ysgelerder|erchylltra|drygioni|echryslonder
+anfaddeuol|1
+(ansoddair)|difaddau|di-gyfiawnhad|di-esgus|anesgusodol
+anfantais|1
+(enw)|colled|niwed mantais
+anfanteisiol|1
+(ansoddair)|anffafriol|amhroffidiol|di-les|anghyfleus
+anfarwol|2
+(ansoddair)|di-dranc|tragwyddol
+(ansoddair)|bythgofiadwy|gwych|rhagorol|ardderchog
+anfedrus|1
+(ansoddair)|anghelfydd|trwsgl|trwstan|lletchwith|llibin|di-fedr|diallu
+anfeidrol|1
+(ansoddair)|diddiwedd|difesur|annherfynol|diderfyn|anferth
+anferth|1
+(ansoddair)|enfawr|dirfawr|aruthr|difesur|eang|anfeidrol pitw|man
+anfodlonrwydd|1
+(enw)|amharodrwydd|anfodd|anewyllysgarwch
+anfoddog|1
+(ansoddair)|anfodlon|anewyllysgar|amharod|o anfodd|yn wysg ei drwyn
+anfoesgar|1
+(ansoddair)|anghwrtais|anfoneddigaidd|aflednais|di-foes|anweddaidd|digywilydd|cwrs
+anfoesgarwch|1
+(enw)|anghwrteisi|afledneisrwydd|digywilydd-dra|anfoneddigeiddrwydd
+anfoesol|1
+(ansoddair)|anllad|llygredig|anweddaidd|digywilydd|anfucheddol
+anfoesoldeb|1
+(enw)|llygredd|gwŷd|anlladrwydd
+anfon|1
+(berf)|danfon|gyrru|hel|hela|trosglwyddo|hebrwng
+anfoneddigaidd|1
+(ansoddair)|anghwrtais|di-foes|anfoesgar|aflednais|cwrs|anfonheddig
+anfri|1
+(enw)|gwarth|amarch|gwaradwydd|cywilydd|difenwad|sarhad|sen
+anfuddiol|1
+(ansoddair)|anghynhyrchiol|di-fudd|amhroffidiol|di-les|di-elw|diwerth
+anfwriadol|1
+(ansoddair)|difwriad|difeddwl
+anfynych|1
+(ansoddair)|anaml|prin|anghyffredin|anarferol|eithriadol
+anffaeledig|1
+(ansoddair)|di-ffael|perffaith|di-nam|di-feth
+anffawd|1
+(enw)|anlwc|aflwydd|anap|trychineb|anghaffael|trallod we dda
+anffodus|1
+(ansoddair)|anlwcus|anffortunus|aflwyddiannus|truenus
+anffurfio|1
+(berf)|sbwylio|difwyno|andwyo|niweidio|anharddu|llygru|drygu
+anffyddlon|1
+(ansoddair)|anghywir|bradwrus|twyllodrus|annibynadwy|anonest
+anffyddlondeb|1
+(enw)|anghywirdeb|brad|anonestrwydd|twyll
+anhapus|1
+(ansoddair)|anfodlon|anfoddog|annedwydd|adfydus|trist|penisel|digalon
+anhapusrwydd|1
+(enw)|tristwch|prudd-der|digalondid
+anharddu|1
+(berf)|andwyo|sbwylio|hagru
+anhawster|1
+(enw)|problem|caledi|cyfyngder|afrwyddineb|rhwystr|dryswch
+anheddu|1
+(berf)|trigo|ymsefydlu|ymgartrefu|byw|preswylio
+anheintus|1
+(ansoddair)|heintrydd|pur
+anhepgor|1
+(ansoddair)|anhepgorol|afraid|afreidiol|angenrheidiol|hollbwysig|rheidiol
+anhrefn|1
+(enw)|llanastr|annibendod|dryswch|tryblith|aflywodraeth|blerwch|esgeulustod
+anhrefnu|1
+(berf)|annibennu|drysu
+anhrefnus|1
+(ansoddair)|di-drefn|anniben|blith draphlith|dilywodraeth|di-lun|didoreth|di-sut
+anhrugarog|1
+(ansoddair)|didrugaredd|creulon|didostur|annynol|ffiaidd|ciaidd|bwystfilaidd
+anhuddo|1
+(berf)|gorchuddio|cuddio|enhuddo
+anhunedd|2
+(enw)|anesmwythyd|pryder
+(enw)|diffyg cwsg
+anhwyldeb|1
+(enw)|anhwylder|clefyd|afiechyd|salwch|gwaeledd|tostrwydd
+anhwylus|2
+(ansoddair)|afiach|claf|sal|gwael|tost
+(ansoddair)|anghyfleus
+anhwylustod|2
+(enw)|clefyd|salwch|gwaeledd|tostrwydd
+(enw)|anghyfleustra
+anhyblyg|1
+(ansoddair)|anystwyth|diysgog|diwyro|cyndyn|caled|syth|ystyfnig
+anhydrin|1
+(ansoddair)|anhywaith|anhydyn|afreolus|aflywodraethus|anystywallt
+anhyfryd|1
+(ansoddair)|annymunol|ffiaidd
+anhygar|1
+(ansoddair)|anhawddgar|diserch|anghyfeillgar|digroeso|gwrthun|hyll
+anhyglyw|1
+(ansoddair)|anghlywadwy|aneglur
+anhygoel|1
+(ansoddair)|anghredadwy|amheus
+anhygyrch|1
+(ansoddair)|anghysbell|pellennig|diarffordd|anial
+anhysbys|1
+(ansoddair)|anadnabyddus|dieithr
+anhywaith|1
+(ansoddair)|anhydrin|afreolus|aflywodraethus|anesmwyth|aflonydd|gwyllt
+anial|1
+(ansoddair)|diffaith|gwyllt|anghyfannedd
+anialwch|1
+(enw)|anialdir|diffeithwch
+anian|2
+(enw)|natur|anianawd
+(enw)|tymer
+anianol|2
+(ansoddair)|naturiol
+(ansoddair)|cynhenid|gwreiddiol
+anifail|1
+(enw)|bwystfil|creadur|mil
+anifeilaidd|1
+(ansoddair)|bwystfilaidd|creulon|annynol|afiach|aflan|brwnt|budr
+anlwc|1
+(enw)|anffawd|aflwydd|anap|anghaffael|trychineb
+anlwcus|1
+(ansoddair)|anffodus|anffortunus|aflwyddiannus
+anllad|1
+(ansoddair)|trythyll|anniwair|trachwantus
+anlladrwydd|1
+(enw)|trythyllwch|anniweirdeb|trachwant
+anllythrennog|1
+(ansoddair)|annysgedig|di-ddysg|anwybodus
+annaearol|1
+(ansoddair)|iasol|annaturiol|bwganaidd
+annaturiol|1
+(ansoddair)|artiffisial|o law dyn|celfyddydol|dieithr
+annealladwy|1
+(ansoddair)|annirnad|anodd|cymhleth
+annechau|1
+(ansoddair)|anghelfydd|carbwl|di-glem|trwstan|afrosgo|trwsgl|llibin
+annedwydd|1
+(ansoddair)|anhapus|trist|penisel|prudd|digalon|anfoddog|anfodlon
+annedd|1
+(enw)|tŷ|cartref|preswylfod|anedd-dŷ|cartrefle|trigfa|preswyl
+annefnyddiol|1
+(ansoddair)|di-fudd|amhroffidiol|anfuddiol|di-les
+annefodol|1
+(ansoddair)|anghonfensiynol|anarferol|anghydffurfiol
+annel|1
+(enw)|amcan|nod|mag]|ateg|plyg
+annelwig|1
+(ansoddair)|di-lun|afluniaidd|aneglur|anghelfydd
+anner|1
+(enw)|heffer|treisiad bustach|eidion
+annerch|2
+(enw)|anerchiad|cyfarchiad
+(berf)|cyfarch|croesawu|traddodi
+annhebyg|1
+(ansoddair)|anghyffelyb|anghyfryw|gwahanol
+annheg|1
+(ansoddair)|anghyfiawn|anghyfreithlon|anghytbwys|anonest
+annhegwch|1
+(enw)|anghyfiawnder|anonestrwydd
+annheilwng|1
+(ansoddair)|anhaeddiannol|di-rinwedd|diwerth
+annherfynol|1
+(ansoddair)|diddiwedd|difesur|diderfyn|di-ben-draw|anfeidrol|dihysbydd
+annhymig|1
+(ansoddair)|anamserol|cyn pryd|anaeddfed|cynamserol
+anniben|1
+(ansoddair)|aflêr|bler|di-drefn|di-sut|di-lun|anhrefnus|blith draphlith
+annibendod|1
+(enw)|blerwch|aflerwch|anhrefn|esgeulustod|llanastr|cybolfa
+annibyniaeth|1
+(enw)|ymreolaeth|hunanlywodraeth|ym-lywodraeth
+anniddan|1
+(ansoddair)|anhapus|anfoddog|anfodlon|prudd|penisel|digalon|trist
+anniddig|1
+(ansoddair)|blin|croes|piwis
+anniddigrwydd|1
+(enw)|blinder|anesmwythyd|anfoddogrwydd
+anniddorol|1
+(ansoddair)|annifyr|anniddanus|annifyrrus|di-fflach|di-ffrwt
+annidwyll|1
+(ansoddair)|anniffuant|anonest|twyllodrus|bradwrus
+annigonol|1
+(ansoddair)|anfoddhaol|anniwall|diffygiol
+anniogel|1
+(ansoddair)|ansicr|an-saff|peryglus|annibynadwy
+annirnad|1
+(ansoddair)|annealladwy|cymhleth|anodd|aneglur|astrus
+annisgwyl|1
+(ansoddair)|sydyn|dirybudd|disymwth
+anniwall|1
+(ansoddair)|annigonol|diwala
+annoeth|1
+(ansoddair)|angall|ynfyd|gwirion|ffol|penwan|disynnwyr
+annog|1
+(berf)|cymell|calonogi|perswadio|annos|argymell|cyffroi|denu
+annormal|1
+(ansoddair)|ansafonol|anarferol|o chwith
+annos|1
+(berf)|annog|hysio|gyrru|hela|cymell|cyffroi
+annosbarth|2
+(enw)|anhrefn|cyffro|terfysg|annibendod|tryblith|dryswch|llanastr
+(ansoddair)|aflywodraethus|annosbarthus|afreolus|gwyllt|anwar|terfysglyd
+annuwiol|1
+(ansoddair)|di-dduw|digrefydd|anghrefyddol|anffyddiog|paganaidd
+annuwioldeb|1
+(enw)|annuwiaeth|anffyddiaeth
+annwn|1
+(enw)|fagddu|uffern|tywyllwch|is-fyd
+annwfn|1
+(enw)|fagddu|uffern|tywyllwch|is-fyd
+annwyd|2
+(enw)|anhwyldeb
+(enw)|natur|anianawd|anian
+annwyl|1
+(ansoddair)|cu|caruaidd|hoff|serchog|cariadus|hawddgar|dymunol
+annymunol|1
+(ansoddair)|amhleserus|anhyfryd|cas|atgas|annewisol
+annynol|1
+(ansoddair)|bwystfilaidd|ciaidd|brwnt|aflan|didrugaredd|creulon|didostur
+annysgedig|1
+(ansoddair)|di-ddysg|anghoeth|anniwylliedig|di-ddiwylliant|anwybodus
+anobaith|1
+(enw)|digalondid|diffyg hyder|diffyg gobaith
+anobeithio|1
+(berf)|digalonni|gwangalonni|colli ffydd
+anobeithiol|1
+(ansoddair)|digalon|anhyderus|diobaith
+anochel|1
+(ansoddair)|anhepgor|sicr|anorfod|anocheladwy|anesgor|anorchfygol
+anodd|1
+(ansoddair)|afrwydd|caled
+anogaeth|1
+(enw)|symbyliad|calondid|cymhelliad|ysgogiad|ysbrydoliaeth
+anonest|1
+(ansoddair)|annibynadwy|twyllodrus|bradwrus|anghyfiawn|anfoneddigaidd|dwylo blewog
+anonestrwydd|1
+(enw)|twyll|hoced|anfoneddigeidd-dra
+anorchfygol|1
+(ansoddair)|anorfod|di-drech
+anorfod|2
+(ansoddair)|anesgor|anocheladwy|sicr
+(ansoddair)|anorchfygol|diguro
+anorffenedig|1
+(ansoddair)|anghyflawn|diorffen|amherffaith
+anrhaith|1
+(enw)|ysbail|lladrad|ysglyfaeth|cyfoeth|distryw
+anrheg|1
+(enw)|rhodd|cyflwyniad|gwobr|calennig
+anrhegu|1
+(berf)|rhoi|gwobrwyo|cyflwyno
+anrheithio|1
+(berf)|ysbeilio|lladrata|dwyn|ysglyfaethu|difetha|difrodi
+anrheithiwr|1
+(enw)|ysbeiliwr|lleidr
+anrhydedd|1
+(enw)|clod|bri|parch|urddas|moliant|canmoliaeth|enwogrwydd
+anrhydeddu|1
+(berf)|parchu|clodfori|moli|canmol|dyrchafu amharchu|sarhau
+anrhydeddus|1
+(ansoddair)|mygedol|parchus|o fri|clodfawr|gwiw|urddasol amharchus
+ansad|1
+(ansoddair)|ansicr|Simsan|gwamal|anwadal|di-ddal|ansefydlog
+ansadrwydd|1
+(enw)|gwamalrwydd|ansefydlogrwydd|anwadalwch
+ansathredig|2
+(ansoddair)|di dramwy|anhygyrch|anghysbell
+(ansoddair)|anghyffredin|anarferol
+ansawdd|1
+(enw)|natur|anian|cyflwr|rhinwedd|cynneddf|dull
+ansawrus|1
+(ansoddair)|drycsawrus|drewllyd|amhleserus|afiach
+ansefydlog|1
+(ansoddair)|gwamal|ansicr|ansad|anwadal|simsan|bregus
+ansicr|1
+(ansoddair)|amheus|petrus|ansiwr|amhendant
+ansicrwydd|1
+(enw)|petruster|amheuaeth
+ansoffistigedig|1
+(ansoddair)|anghoeth|anniwylliedig|di-ddiwylliant|di-ddysg|diniwed|anwybodus|syml
+anterth|1
+(enw)|uchafbwynt|eithaf
+antur|1
+(enw)|anturiaeth|mentr|beiddgarwch|profedigaeth|hap ac anap
+anturiaethus|1
+(ansoddair)|anturus|beiddgar|mentrus di-fentro|dihyder
+anturio|1
+(berf)|mentro|beiddio|herio|ymgynnig|cynnig|ymgeisio
+anudon|1
+(enw)|celwydd|anwiredd|anudoniaeth
+anufudd|1
+(ansoddair)|anystywallt|ystyfnig,penstiff|pengaled
+anufuddhau|1
+(berf)|herio|ystyfnigo
+anunion|1
+(ansoddair)|cam|crwca union|syth
+anuniongyrchol|1
+(ansoddair)|cwmpasog|amleiriog|hirwyntog
+anurddo|1
+(berf)|sbwylio|difwyno|andwyo|anharddu
+anwadal|1
+(ansoddair)|gwamal|simsan|bregus|di-ddal|chwit-chwat|oriog|cyfnewidiol
+anwadalu|1
+(berf)|gwamalu|petruso
+anwadalwch|1
+(enw)|ansefydlogrwydd|gwamalrwydd|ansadrwydd
+anwar|1
+(ansoddair)|anwaraidd|barbaraidd|gwyllt|anfwyn|anfoesgar,anfoneddigaidd|di ddiwylliant
+anwariaid|1
+(enw)|barbariaid|canibaliaid|gwylliaid
+anwastad|2
+(ansoddair)|garw
+(ansoddair)|ansefydlog|gwamal
+anwedd|1
+(enw)|tawch|ager|stêm|cyddwysiad
+anweddu|1
+(berf)|ymageru|troi er
+anweddus|1
+(ansoddair)|anweddaidd|gwrthun|aflednais|amhriodol|di-foes
+anwel|1
+(ansoddair)|anweledig|anweladwy|anamlwg|aneglur
+anwes|1
+(enw)|maldod|anwyldeb|mwythau
+anwesu|1
+(berf)|anwylo|maldodi|tolach|mwytho|mynwesu|coleddu|cofleidio
+anwir|1
+(ansoddair)|celwyddog|gau|ffals|twyllodrus
+anwiredd|1
+(enw)|ffalster|celwydd|twyll
+anwr|1
+(enw)|adyn|dihiryn|llwfrgi
+anwybodus|1
+(ansoddair)|di-ddysg|annysgedig|anniwylliedig|anghoeth|diwybod|di-wybodaeth
+anwybyddu|1
+(berf)|esgeuluso|dibrisio|diystyru|gwadu
+anwydog|1
+(ansoddair)|anhwylus|oer|oerllyd|fferllyd|rhynllyd|dan annwyd
+anwyliadwrus|1
+(ansoddair)|anofalus|diofal|esgeulus|anochelgar
+anwyliaid|1
+(enw))|cyfnesiaid|carennydd|ceraint|cyfeillion|cymdeithion|cydnabyddion
+anwylo|1
+(berf)|anwesu|maldodi|tolach
+anwylyd|1
+(enw)|cariad|cyfaill|cariadfab|cariadferch
+anynad|1
+(ansoddair)|piwis|sarrug|croes|blin|afrywiog|cecrus|cynhennus
+anystwyth|1
+(ansoddair)|anhyblyg|syth|caled|di-ildio|ystyfnig|penstiff
+anystyriol|1
+(ansoddair)|difeddwl|di-hid|didaro ystyriol|meddylgar
+anystywallt|1
+(ansoddair)|gwyllt|anhydrin|afreolus|anhywaith|annosbarthus
+apêl|2
+(enw)|ple|ymbil|erfyniad|apelio
+(berf)|gofyn|ymofyn|erfyn|pledio|ymbil|crefu
+ar|1
+(arddodiad)|uwchben|ar uchaf|ar warthaf|ar ben|acha|goruwch|uwchlaw
+arab|1
+(ansoddair)|ffraeth|digrif|doniol|llawen|llon|ysmala|cellweirus swrth|sarrug
+arabedd|1
+(enw)|ffraethineb|hiwmor|ysmaldod|digrifwch|donioldeb
+araf|1
+(ansoddair)|pwyllog|hamddenol|hwyrfrydig|araf deg|linc-di-lonc cyflym|buan
+arafu|1
+(berf)|pwyllo|hamddena|cymedroli|llusgo traed
+arafwch|1
+(enw)|pwyll|cymedroldeb|hwyrfrydigrwydd
+araith|1
+(enw)|anerchiad|ymadrodd|lleferydd|sgwrs
+araul|1
+(ansoddair)|heulog|teg|disglair|gloyw|golau|hyfryd|tesog
+arbed|1
+(berf)|achub|cynilo|gwaredu|cadw|safio|sbario afradu
+arbenigrwydd|1
+(enw)|nodwedd|rhagoriaeth|godidowgrwydd|goruchafiaeth
+arbennig|1
+(ansoddair)|neilltuol|anghyffredin|rhagorol
+arbrawf|1
+(enw)|prawf|cynnig|ymgais|ymdrech
+arbrofi|1
+(berf)|profi|arloesi
+arch|2
+(enw)|deisyfiad|cais|erfyniad|dymuniad|cist|coffr|coffin
+(rhagddodiad)|cam|drwg|ysgeler|gwaethaf|uchaf|pennaf
+archifau|1
+(enw)|cofnodion
+archifdy|1
+(enw)|creirfa|cywreinfa|amgueddfa
+archoll|1
+(enw)|clwyf|briw|anaf|dolur|gweli|toriad|cwt
+archolli|1
+(berf)|anafu|clwyfo|brifo|gwanu|niweidio
+archwaeth|1
+(enw)|bias|chwant|awydd|blys|chwaeth
+archwaethu|1
+(berf)|blasu|blysio|chwantu|chwannog|chwennych
+archwilio|1
+(berf)|profi|chwilio|ystyried
+ardal|1
+(enw)|bro|rhanbarth|talaith|parth|rhandir|cymdogaeth|dosbarth
+ardystio|1
+(berf)|tystiolaethu|profi|gwirio
+arddangosfa|1
+(enw)|sioe|siew
+arddel|1
+(berf)|cydnabod|hawlio|honni|addef|cyfaddef|cymeradwyo|defnyddio
+arddeliad|1
+(enw)|argyhoeddiad|hyder|cydnabyddiaeth|sicrwydd|eneiniad
+ardderchog|1
+(ansoddair)|rhagorol|bendigedig|gwych|godidog|campus|ysblennydd|dan gamp
+arddull|1
+(enw)|ieithwedd|dull|modd|ffordd|steil
+ardduniant|1
+(enw)|urddas|arucheledd|mawredd|harddwch gwaeledd
+arddunol|1
+(ansoddair)|godidog|aruchel|mawreddog|dyrchafedig|hardd|urddasol
+arddwr|1
+(enw)|ffermwr|hwsmon|amaethwr|aradrwr
+aredig|1
+(berf)|arddu|arddyd|troi neu ymhoelyd y tir
+areithio|1
+(berf)|traethu|llefaru|darlithio|pregethu
+areithiwr|1
+(enw)|llefarwr|rhethregwr|ymadroddwr|pregethwr|darlithydd
+arfaeth|1
+(enw)|bwriad|nod|cynllun|amcan|pwrpas
+arfaethedig|1
+(ansoddair)|bwriedig|a gynigir
+arfaethu|1
+(berf)|bwriadu|amcanu|pwrpasu|cynllunio|arofun
+arfer|2
+(enw)|defod|arferiad|moes|tuedd|defnydd
+(berf)|defnyddio|manteisio ar|ymarfer|cyfarwyddo|cynefino
+arferol|1
+(ansoddair)|cyffredin|cynefin
+argae|1
+(enw)|clawdd|cored|cronfur|morglawdd|dyfr glawdd
+arglwydd|1
+(enw)|pendefig|meistr|llywodraethwr|iarll|dug|ardalydd|barwn
+arglwyddaidd|1
+(ansoddair)|urddasol|pendefigaidd|bonheddig
+arglwyddes|1
+(enw)|pendefiges|meistres|bonesig|iarlles|ardalyddes|duges|barwnes
+arglwyddiaeth|1
+(enw)|awdurdod|llywodraeth|ystad
+arglwyddiaethu|1
+(berf)|rheoli|tra-awdurdodi|llywodraethu
+argoel|1
+(enw)|arwydd|awgrym|rhagarwydd|nod
+argoeli|1
+(berf)|arwyddo|awgrymu|rhagarwyddo|darogan|rhagfynegi|rhag-ddweud
+argraff|1
+(enw)|nod|ôl|delw|argraffnod
+argraffiadol|1
+(ansoddair)|trawiadol|gafaelgar
+argyfwng|1
+(enw)|creisis|cyfyngder
+argyfyngol|1
+(ansoddair)|peryglus|tyngedfennol
+argyhoeddi|1
+(berf)|darbwyllo|perswadio|gwrthbrofi|ceryddu
+argyhoeddiad|1
+(enw)|cred|darbwylliad|barn|safbwynt|perswâd anhyder|petruster
+argymell|1
+(berf)|cymell|annog|cynnig|cymeradwyo|annog|calonogi
+argymhelliad|1
+(enw)|cymhelliad|anogaeth
+arholi|1
+(berf)|archwilio|holi|stilio|profi
+arholiad|1
+(enw)|prawf|ymholiad
+arholwr|1
+(enw)|chwiliwr|archwiliwr|profwr|holwr|stiliwr
+arhosfa|1
+(enw)|gorffwysfa|trigfa|man aros
+arhosiad|1
+(enw)|oediad|trigiad|preswyliad
+arhosol|1
+(ansoddair)|parhaol|parhaus|sefydlog
+arian|1
+(enw)|cyllid|cyfalaf|pres
+ariangar|1
+(ansoddair)|cybyddlyd|crintach|clos
+ariangarwch|1
+(enw)|cybydd-dod|crintachrwydd
+ariannog|1
+(ansoddair)|cefnog|cyfoethog|goludog|abl
+arlunydd|1
+(enw)|peintiwr|artist
+arlwy|2
+(enw)|darpariaeth|paratoad
+(enw)|gwledd
+arlwyo|1
+(berf)|darparu|trefnu|paratoi
+arlliw|1
+(enw)|bias|lliw|argoel|ol|eiliw|gwawr
+arllwys|1
+(berf)|tywallt|diwel
+arobryn|1
+(ansoddair)|teilwng|haeddiannol
+arofun|2
+(enw)|arofuned|bwriad|arfaeth|amcan|pwrpas|cynllun
+(berf)|bwriadu|arfaethu|amcanu|golygu|anelu|meddwl
+aroglau|1
+(enw)|arogl|persawr|sawr|perarogl
+arogleuo|1
+(berf)|gwyntio|clywed|sawru
+arolwg|1
+(enw)|ardrem|archwiliad
+arolygu|1
+(berf)|archwilio|goruchwylio|profi
+arolygydd|2
+(enw)|archwiliwr
+(enw)|goruchwyliwr
+aros|1
+(berf)|sefyll|oedi|trigo|preswylio|disgwyl
+arswyd|1
+(enw)|dychryn|ofn|braw
+arswydo|1
+(berf)|dychryn|brawychu|ofni
+arswydus|1
+(ansoddair)|dychrynllyd|ofnadwy|brawychus|erchyll|echryslon|echrydus
+artaith|1
+(enw)|poen|dirboen
+arteithio|1
+(berf)|poenydio|dirboeni
+artiffisial|1
+(ansoddair)|annaturiol|celfyddydol|o law dyn naturiol
+aruchel|1
+(ansoddair)|arddunol|mawreddog|godidog|dyrchafedig|bendigedig
+aruthr|1
+(ansoddair)|aruthrol|rhyfeddol|syn|anferth|dirfawr|enfawr|difesur
+arwahanrwydd|1
+(enw)|unigrwydd|arbenigrwydd dinodedd|distadledd
+arwain|1
+(berf)|tywys|blaenori|cyfarwyddo
+arweiniad|1
+(enw)|cyfarwyddyd|blaenoriaeth|hyfforddiant|tywysiad|rhagymadrodd|esiampl
+arweinydd|1
+(enw)|tywysydd|blaenor|hyfforddwr|cyfarwyddwr
+arwerthiant|1
+(enw)|gwerthiant|arwerthiad|ocsiwn|sêl|marchnad|mart
+arwisgo|1
+(berf)|urddo|dilladu|gwisgo|addurno|urdd wisgo
+arwriaeth|1
+(enw)|dewrder|gwroldeb|gwroniaeth|beiddgarwch|ehofndra|glewdra
+arwrol|1
+(ansoddair)|dewr|gwrol|epig|hanesiol
+arwydd|1
+(enw)|nod|argoel|amnaid|awgrym|mynegbost
+arwyddlun|1
+(enw)|symbol|arwydd
+arwyddnod|1
+(enw)|marc|nod|llofnodiad
+arwyddo|1
+(berf)|amneidio|dynodi|nodi|awgrymu|symboleiddio|llofnodi
+arwyddocâd|1
+(enw)|ystyr|meddwl|pwysigrwydd dinodedd|distadledd
+arwyddocaol|1
+(ansoddair)|pwysig|o bwys|sylweddol
+arwyddocau|2
+(berf)|mynegi|amneidio
+(berf)|cyfleu|dynodi|golygu|meddwl
+arwyl|1
+(enw)|angladd|cynhebrwng|claddedigaeth
+arwynebedd|1
+(enw)|wyneb|arwyneb|rhan allanol
+arwynebol|1
+(ansoddair)|bas|disylwedd
+asbri|1
+(enw)|hwyl|nwyf|bywiogrwydd|hoen|ysbryd|sbri|bywyd
+asesu|1
+(berf)|pwyso a mesur|arfarnu|gwerthuso|prisio
+asgellog|1
+(ansoddair)|adeiniog|hedegog
+asglodyn|1
+(enw)|darn|pric|dellt
+asio|1
+(berf)|cydio|cyfannu|ieuo|cysylltu|uno|soldro
+astell|1
+(enw)|ystyllen|dellten|planc|silff
+astrus|1
+(ansoddair)|anodd|cymhleth|dyrys|aneglur|amwys
+astud|1
+(ansoddair)|gofalus|ystyriol|myfyrgar|diwyd|dyfal|prysur|diflin
+astudiaeth|1
+(enw)|myfyrdod|efrydiaeth|sylw|ymchwil
+astudio|1
+(berf)|myfyrio|efrydu|meddwl|dysgu diystyru|esgeuluso
+asyn|1
+(enw)|mul|mwlsyn|mulsyn
+asynnaidd|1
+(ansoddair)|mulaidd|twp|ystyfnig
+at|1
+(arddodiad)|i|hyd at|nes|i gyfeiriad|tua|hyd nes|hyd|tan o
+atal|1
+(berf)|lluddias|llesteirio|rhwystro|gwahardd|cadw’n ôl
+atalfa|1
+(enw)|ataliad|ataliaeth|rhwystr|llestair|gwaharddiad
+ateb|2
+(enw)|atebiad|gwrtheb|datrysiad|dehongliad|esboniad
+(berf)|rhoi ateb|dweud yn ôl|bodloni
+atebol|1
+(ansoddair)|cyfrifol|dibynadwy
+atebolrwydd|1
+(enw)|cyfrifoldeb|dibynadwyedd
+ateg|1
+(enw)|post|cynhalbren|gwanas|cynhaliaeth|cymorth|cefnogaeth
+ategu|1
+(berf)|cynnal|cefnogi|dal i fyny|cadarnhau|cydsynio
+atgas|1
+(ansoddair)|cas|ffiaidd|gwrthun|annymunol|mochaidd|ciaidd
+atgasedd|1
+(enw)|atgasrwydd|cas|casineb|gwrthuni|ffieidd-dra|digasedd
+atglafychu|1
+(berf)|gwaethygu|dirywio
+atgof|1
+(enw)|cof|coffa
+atgofio|1
+(berf)|cofio|atgoffa|dwyn|galw i gof|coffau|atgoffau
+atgyfnerthu|1
+(berf)|cryfhau|cadarnhau|cefnogi|ymfywiogi gwanhau|gwanychu
+atgyfodi|2
+(berf)|ailgodi
+(berf)|adfer|adfywio|dadebru
+atgyfodiad|1
+(enw)|adferiad|adfywiad|ailgyfodiad|ymadfywiad
+atgynhyrchu|1
+(berf)|ailgynhyrchu|ail-greu|ail-lunio
+atgyweirio|1
+(berf)|trwsio|cywiro|cyweirio|union|ail-wneud
+atodi|1
+(berf)|ychwanegu|cyplysu|olddodi
+atodiad|1
+(enw)|ychwanegiad|atodlen
+atolygu|1
+(berf)|deisyf|erfyn|ymbil|crefu|ymhŵedd
+atsain|1
+(enw)|adlais|eco|datsain|adlef|ailadroddiad
+atseinio|1
+(berf)|adleisio|ailadrodd|diasbedain|datseinio|adlefain
+atyniad|1
+(enw)|tynfa|swyn|atynfa
+atyniadol|1
+(ansoddair)|deniadol|swynol|hudol|atynnol|magnetig
+atynnu|1
+(berf)|denu|swyno|hudo|tynnu
+athrawes|1
+(enw)|ysgolfeistres|addysgwraig|hyfforddwraig
+athrawiaeth|1
+(enw)|dysgeidiaeth|credo|pwnc|hyfforddiant
+athrawiaethu|1
+(berf)|dysgu|addysgu|cyfarwyddo|hyfforddi
+athro|1
+(enw)|hyfforddwr|ysgol-feistr|addysgwr|dysgedydd
+athrod|1
+(enw)|enllib|sen|sarhad|anair|anghlod|drygair|cabl clod|canmoliaeth
+athrodi|1
+(berf)|enllibio|sarhau|bwrw sen
+athrodwr|1
+(enw)|enllibiwr|cablwr|ymosodwr
+athrofa|1
+(enw)|coleg|prifysgol|academi|ysgol
+athronyddu|1
+(berf)|damcaniaethu|meddwl|synied|tybied
+athrylith|1
+(enw)|talent|medr|gallu|cywreinrwydd
+athrylithgar|1
+(ansoddair)|talentog|dawnus|dysgedig|disglair
+awch|2
+(enw)|min|miniogrwydd|llymder
+(enw)|eiddgarwch|sêl|awydd|angerdd
+awchus|2
+(ansoddair)|miniog|siarp|lly pwl|di-fin
+(ansoddair)|eiddgar|selog|angerddol|awyddus
+awdur|1
+(enw)|llenor|ysgrifennwr|gŵr llên|creawdwr
+awdurdodi|1
+(berf)|caniatáu|cyfreithloni|rhoi hawl
+awdurdodol|1
+(ansoddair)|swyddogol|dilys|llym
+awel|1
+(enw)|chwa|gwynt|brisyn
+awen|2
+(enw)|afwyn|llinyn ffrwyn
+(enw)|athrylith|ysbrydoliaeth|dawn|talent
+awenydd|1
+(enw)|bardd|prydydd|rhigymwr
+awenyddiaeth|1
+(enw)|barddoniaeth|prydyddiaeth
+awenyddu|1
+(berf)|rhigymu|barddoni|prydyddu
+awgrym|1
+(enw)|awgrymiad|crybwylliad|arwydd|hint
+awgrymu|1
+(berf)|lledfynegi|crybwyll|cyfleu|dynodi
+awtomatig|1
+(ansoddair)|hunanysgogol|ymysgogol|ymsymudol|robotaidd|peiriannol|prennaidd
+awydd|1
+(enw)|dymuniad|dyhead|chwant|chwenychiad
+awyddus|1
+(ansoddair)|awchus|chwannog|eiddgar|gwancus|selog
+awyr|1
+(enw)|wybr|wybren|ffurfafen|nen|aer
+awyrgylch|1
+(enw)|aer|awyr|naws|teimlad|hinsawdd
